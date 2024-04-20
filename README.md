@@ -11,7 +11,7 @@
     Traffic:	Unlimited *
     Available Locations	: Germany
 
-X:  https://twitter.com/Validator247
+X: https://twitter.com/daturit
 
 Telegram: https://t.me/iGuruNode
 
@@ -19,7 +19,7 @@ Website: https://github.com/lengocbaovy
 
 Email: lengocbaovy2101@gmail.com 
 
-Discord: https://discord.com/channels/@baovy
+Discord: https://discord.com/channels/@daturit26
 
 pecializing in operating nodes and validators on EVM and Cosmos ecosystems with Proof-of-Stake algorithms
 
