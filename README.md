@@ -33,8 +33,8 @@ Validator testnet:
 - Mantrachain
 - Avail
 - SelfChain
-- SiDe protocol
-- Warden protoco
+- Side protocol
+- Warden protocol
 - Hedge
 - Aligned-Layer
 - Cardchain
@@ -42,6 +42,7 @@ Validator testnet:
 - Tangle
 - Autonity
 - Pactus
+- Avail
 - .....................
 
 
